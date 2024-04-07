@@ -7,10 +7,10 @@
 </head>
 <body>
     <?php
-    $nama = "John";
-    $alamat = "j.l Badak No.2 Cimahi-Bandung";
-    $ttl = "jakarta";
-    $telp = "083256";
+    $nama = "Muhammad Nuradiyat";
+    $alamat = "j.l Pagdengan, Kp cicayur1";
+    $ttl = "Tangerang, BSD";
+    $telp = "0834576345";
 
     echo "Nama = $nama<br>";
     echo "Alamat = $alamat<br>";
